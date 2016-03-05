@@ -1,6 +1,6 @@
 # psy496-mturk-project
 This repository exists to showcase my work as a research assistant for the Interactive Measurement Group at UNLV.
-Programs that use Amazon Web Services API to perform tasks in Amazon MTurk.
+These are programs that use Amazon Web Services API to perform tasks in Amazon MTurk.
 
 Explanation of files:
 * NotifyWorkers.pl
